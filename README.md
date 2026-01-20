@@ -8,9 +8,11 @@ This section of a project showcases research and writing skill with highly techn
 Our team generated this section of the report largely in response to elicitation of client needs through our consultative meetings. It became clear throughout the course of the project that the client had high-level business understanding of asset management but lacked an engineering perspective relative to the acquisition of key information to support an asset management program.  
 
 ## What I learned
-Throughout the project, I learned to tailor writing content and style to particular audiences. Rather than being bogged down in the particular _'hows'_ or other details of inspection technology, I emphasized knowledge that asset managers would need to launch a new asset management program and support _operational readiness_ based in _accurate information_.
+Throughout the project, I learned to tailor writing content and style to particular audiences. Rather than being bogged down in the particular _'hows'_ or other details of inspection technology[^1], I emphasized knowledge that asset managers would need to launch a new asset management program and support _operational readiness_ based in _accurate information_.
 
 I also learned to manage large volumes of reference material using Zotero - a biblographic management software.
+
+[^1]: though this kind of information was made available through a large reference section and a rich appendix of further resources and tools
 
 ## Skills Used
 * Collaboration
