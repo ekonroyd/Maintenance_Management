@@ -9,6 +9,7 @@ Our team generated this section of the report largely in response to elicitation
 
 ## What I learned
 Throughout the project, I learned to tailor writing content and style to particular audiences. Rather than being bogged down in the particular _'hows'_ or other details of inspection technology, I emphasized knowledge that asset managers would need to launch a new asset management program and support _operational readiness_ based in _accurate information_.
+
 I also learned to manage large volumes of reference material using Zotero - a biblographic management software.
 
 ## Skills Used
