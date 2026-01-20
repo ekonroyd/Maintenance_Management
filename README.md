@@ -12,7 +12,7 @@ Throughout the project, I learned to tailor writing content and style to particu
 
 I also learned to manage large volumes of reference material using Zotero - a biblographic management software.
 
-[^1]: though this kind of information was made available through a large reference section and a rich appendix of further resources and tools
+[^1]: though, this kind of information was made available through a large reference section and a rich appendix of further resources and tools
 
 ## Skills Used
 * Collaboration
